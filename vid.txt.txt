@@ -1,0 +1,3 @@
+{01, "vidya", "supreetha", 86900
+ 02, "max", "john", 195610
+03, "Raj", "Ram", 1200}
